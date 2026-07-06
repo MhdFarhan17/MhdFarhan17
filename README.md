@@ -11,6 +11,7 @@
 I am an **Electrical Engineering Fresh Graduate** from **Diponegoro University**. I am a passionate **IT Enthusiast** with experience across various domains, from building interactive websites to developing **IoT Systems** and cross-platform **Mobile Apps** (fun fact: my Final Project was an app built using Flutter!).
 
 - 🔭 I have practical experience building **Websites, IoT Systems, and Mobile Applications**
+- 👨‍💻 My core programming languages include **C++, Java, Python, JavaScript, and PHP** (along with **Arduino** for IoT)
 - 💻 My frontend and framework stack includes **Laravel, React.js, Tailwind CSS, Bootstrap, and Flutter**
 - 🗄️ For backend and databases, I frequently use **MySQL, Firebase, and Supabase**
 - 💡 I'm highly motivated to explore new technologies and solve real-world problems
@@ -22,7 +23,7 @@ I am an **Electrical Engineering Fresh Graduate** from **Diponegoro University**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,flutter,tailwind,bootstrap,mysql,firebase,supabase" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,arduino,php,java,js,py,laravel,react,flutter,tailwind,bootstrap,mysql,firebase,supabase" alt="My Skills" />
   </a>
 </p>
 
