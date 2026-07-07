@@ -32,8 +32,8 @@ I am an **Electrical Engineering Fresh Graduate** from **Diponegoro University**
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MhdFarhan17&show_icons=true&theme=radium&hide_border=true" alt="MhdFarhan17's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=MhdFarhan17&theme=radium&hide_border=true" alt="MhdFarhan17's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MhdFarhan17&show_icons=true&theme=tokyonight&hide_border=true" alt="MhdFarhan17's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MhdFarhan17&theme=radical&hide_border=true" alt="MhdFarhan17's GitHub Streak" width="48%" />
 </div>
 
 ---
