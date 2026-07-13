@@ -1,4 +1,4 @@
-# Hi there, I'm MhdFarhan17! 👋
+# Hi there, I'm Farhan! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Enthusiast;Web+Developer;Mobile+Developer+(Flutter);IoT+Systems+Explorer" alt="Typing SVG" />
