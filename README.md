@@ -1,40 +1,49 @@
 # Hi there, I'm Farhan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Enthusiast;Web+Developer;Mobile+Developer+(Flutter);IoT+Systems+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=IT+Enthusiast;Web+Developer;Mobile+Developer+(Flutter);IoT+Systems+Explorer" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <em>An Electrical Engineering Graduate turning coffee into code. Passionate about building interactive websites, developing IoT Systems, and creating cross-platform Mobile Apps.</em>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am an **Electrical Engineering Fresh Graduate** from **Diponegoro University**. I am a passionate **IT Enthusiast** with experience across various domains, from building interactive websites to developing **IoT Systems** and cross-platform **Mobile Apps** (fun fact: my Final Project was an app built using Flutter!).
+- 🔭 Currently building **Websites, IoT Systems, and Mobile Applications**
+- 🌱 Always learning and exploring new technologies to solve real-world problems
+- 🎓 **Electrical Engineering** Fresh Graduate from **Diponegoro University**
+- 📱 Fun fact: My Final Project was an app built using **Flutter**!
+- 📫 Reach out to me: **[mfsn2806@gmail.com](mailto:mfsn2806@gmail.com)**
 
-- 🔭 I have practical experience building **Websites, IoT Systems, and Mobile Applications**
-- 👨‍💻 My core programming languages include **C++, Java, Python, JavaScript, and PHP** (along with **Arduino** for IoT)
-- 💻 My frontend and framework stack includes **Laravel, React.js, Tailwind CSS, Bootstrap, and Flutter**
-- 🗄️ For backend and databases, I frequently use **MySQL, Firebase, and Supabase**
-- 💡 I'm highly motivated to explore new technologies and solve real-world problems
-- 📫 How to reach me: **[mfsn2806@gmail.com](mailto:mfsn2806@gmail.com)**
+
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,arduino,php,java,js,py,laravel,react,flutter,tailwind,bootstrap,mysql,firebase,supabase" alt="My Skills" />
-  </a>
-</p>
+**Core Languages:**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java,py,js,php,dart,ts" alt="Languages" /></a>
+<br><br>
+**Frontend & Frameworks:**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,flutter" alt="Frontend" /></a>
+<br><br>
+**Backend & Databases:**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,nodejs" alt="Backend" /></a>
+<br><br>
+**Tools & Others:**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,postman" alt="Tools" /></a>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MhdFarhan17&show_icons=true&theme=tokyonight&hide_border=true" alt="MhdFarhan17's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MhdFarhan17&theme=radical&hide_border=true" alt="MhdFarhan17's GitHub Streak" width="48%" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhdFarhan17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -50,4 +59,8 @@ I am an **Electrical Engineering Fresh Graduate** from **Diponegoro University**
   <a href="https://www.instagram.com/mhdfarhan.17">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MhdFarhan17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
